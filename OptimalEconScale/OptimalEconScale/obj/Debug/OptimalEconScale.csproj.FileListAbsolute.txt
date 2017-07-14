@@ -1,0 +1,9 @@
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\bin\Debug\OptimalEconScale.exe.config
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\bin\Debug\OptimalEconScale.exe
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\bin\Debug\OptimalEconScale.pdb
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\obj\Debug\OptimalEconScale.csprojResolveAssemblyReference.cache
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\obj\Debug\OptimalEconScale.Properties.Resources.resources
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\obj\Debug\OptimalEconScale.csproj.GenerateResource.Cache
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\obj\Debug\OptimalEconScale.exe
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\obj\Debug\OptimalEconScale.pdb
+C:\Users\Kiki Hung\Desktop\OptimalEconScale\OptimalEconScale\obj\Debug\OptimalEconScale.OptimalEconScale.resources
